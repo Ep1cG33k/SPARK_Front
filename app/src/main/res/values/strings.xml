@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Inquisitor</string>
+    <string name="title_home">Add Event</string>
+    <string name="title_dashboard">Data</string>
+    <string name="title_notifications">Settings</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+</resources>
